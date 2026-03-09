@@ -1,0 +1,26 @@
+button {
+  background-color: #4dc3ff !important;
+  color: white;
+  width: 30px;
+  height: 30px;
+}
+
+button :hover {
+  background-color: #065075 !important;
+}
+
+.refresh-button :hover {
+  background-color: #065075 !important;
+}
+
+i {
+  color: white;
+}
+
+.sub-header-panel {
+  margin-bottom: 10px;
+}
+
+.yearButton {
+  width: 55px;
+}
